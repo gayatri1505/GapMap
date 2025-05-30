@@ -51,9 +51,7 @@ npm install
 npm run dev
 ```
 
-The application will be available at:
-- Frontend: http://localhost:8081
-- Backend: http://localhost:5001
+The application will be available at:https://skill-radar-gapmap.vercel.app
 
 ## Environment Variables
 
